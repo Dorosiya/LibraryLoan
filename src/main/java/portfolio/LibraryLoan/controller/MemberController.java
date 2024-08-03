@@ -25,7 +25,7 @@ public class MemberController {
     }
 
     @PostMapping("/member")
-    public ResponseEntity<Map<String, String>> joinProcess(@Valid @RequestBody JoinDto joinDto) {
+    public ResponseEntity<Map<String, String>> joinProcess(@Valid @RequestBody JoinDto  joinDto) {
         log.info("join Proceeding");
         memberService.joinMember(joinDto);
         return ResponseEntity.ok().body(Map.of("message", "ok"));

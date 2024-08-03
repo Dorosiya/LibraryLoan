@@ -3,12 +3,11 @@ package portfolio.LibraryLoan.repository;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import jakarta.persistence.EntityManager;
 import portfolio.LibraryLoan.entity.Member;
-import portfolio.LibraryLoan.entity.QRole;
 
 import java.util.Optional;
 
 import static portfolio.LibraryLoan.entity.QMember.member;
-import static portfolio.LibraryLoan.entity.QRole.*;
+import static portfolio.LibraryLoan.entity.QRole.role;
 
 public class MemberRepositoryImpl implements MemberRepositoryCustom {
 
