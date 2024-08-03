@@ -29,7 +29,7 @@
 - **JWT(JSON Web Tokens)** : 안전한 사용자 인증을 위한 토큰 기반 인증 시스템
 
 ## ERD
-![LibraryLoan.png](..%2F..%2F..%2F..%2FDownloads%2FLibraryLoan.png)
+![LibraryLoan](https://github.com/Dorosiya/LibraryLoan/assets/129160905/837983bd-1c12-4378-9fd8-f106f01a074f)
 
 ## API 문서
 <details markdown="1">
@@ -201,20 +201,20 @@
 
 ## 주요 화면
 - 로그인 화면 페이지
-  - 
+  - ![img_11](https://github.com/Dorosiya/LibraryLoan/assets/129160905/4619794a-adf8-4b28-818f-6f4b3c018cdf)
 - 메인 화면 페이지
-  - 
+  - ![img_3](https://github.com/Dorosiya/LibraryLoan/assets/129160905/1cff31c6-2091-4b01-8049-39cc0934af62)
 - 기본 정보 페이지
-  - 
+  - ![img_5](https://github.com/Dorosiya/LibraryLoan/assets/129160905/721fece4-0d9f-4999-a4ac-0da817395ea0)
 - 도서 대출 정보 페이지
-  - 
+  - ![img_2](https://github.com/Dorosiya/LibraryLoan/assets/129160905/04082bbb-a285-4a0b-a746-36597608951d)
 - 도서 예약 정보 페이지
-  - 
+  - ![img_6](https://github.com/Dorosiya/LibraryLoan/assets/129160905/820fe88e-c0db-44ba-aa11-18e7081a2295)
 - 공지사항 목록 페이지
-  - 
+  - ![img_8](https://github.com/Dorosiya/LibraryLoan/assets/129160905/972d77d3-0855-4eb7-a299-04fc3f7ebb70)
 - 공지사항 작성 페이지
-  - 
+  - ![img_7](https://github.com/Dorosiya/LibraryLoan/assets/129160905/bd7ee33f-cbb3-434b-818c-5825daae7c2e)
 - 공지사항 조회 페이지
-  - 
+  - ![img_9](https://github.com/Dorosiya/LibraryLoan/assets/129160905/197ecc81-4e18-4d06-af3a-9858b955b552)
 - 내정보 페이지
-  - 
+  - ![img_10](https://github.com/Dorosiya/LibraryLoan/assets/129160905/922325d0-2531-4b89-b0cf-c99f093b26ae)
